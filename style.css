@@ -255,12 +255,13 @@ header {
 }
 .gallery {
     margin-top: 5em;
+   
 }
 .gallery_two_column_section {
     display: flex;
 }
 .gallery_image_mobile {
-    width: 100%;
+    width: 50%;
 }
 .gallery_image_desktop {
     display: none;
@@ -269,6 +270,7 @@ footer {
     background-color: #90d4c5;
     text-align: center;
     padding: 3em;
+    
 }
 .footer_logo {
     color: var(--dark-desaturated-cyan);
@@ -434,6 +436,6 @@ footer {
     }
     .gallery_image_desktop {
         display: block;
-        width: 100%;
+        width: 50%;
     }
 }
