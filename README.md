@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 -   Solution URL: [Click here for solution](https://github.com/ArryBlack/Sunnyside-Landing-Page-Solution-Frontend-Mentor)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Live Site URL: [Click here to view the site](https://arryblack.github.io/Sunnyside-Landing-Page-Solution-Frontend-Mentor/)
 
 ## My process
 
