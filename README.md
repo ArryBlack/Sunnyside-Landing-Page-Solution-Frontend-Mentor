@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [Click here for solution](https://github.com/ArryBlack/Sunnyside-Landing-Page-Solution-Frontend-Mentor)
+-   Live Site URL: [Click here to view the site](https://arryblack.github.io/Sunnyside-Landing-Page-Solution-Frontend-Mentor/)
 
 ## My process
 
@@ -36,6 +36,7 @@ Users should be able to:
 -   Mobile-first workflow
 
 ### What I learned
+Got more confident with complex layouts. Learnt more about background images and positioning.
 
 ## Author
 
