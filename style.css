@@ -255,6 +255,7 @@ header {
 }
 .gallery {
     margin-top: 5em;
+    max-width: fit-content;
    
 }
 .gallery_two_column_section {
